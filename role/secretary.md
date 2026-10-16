@@ -94,4 +94,4 @@
 
 ---
 
-*相关阅读：[公司代表案例](company-representative.md)（治理视角）· [角色案例集入口](index.md)*
+*相关阅读：[公司代表案例](representative.md)（治理视角）· [角色案例集入口](index.md)*

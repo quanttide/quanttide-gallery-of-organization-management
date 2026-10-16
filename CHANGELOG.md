@@ -15,6 +15,7 @@
 ### Changed
 
 - `role/index.md` 重写为角色模型摘要：归纳文官、议员、法官三种原型，记录各系统主要职位惯例（公司系统议员优先，联盟与实训基地系统文官优先）
+- `role/company-representative.md` 更名为 `role/representative.md`，同步更新 README 与相关阅读链接
 
 ## [0.1.0] - 2026-09-14
 
