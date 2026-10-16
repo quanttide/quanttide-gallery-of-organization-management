@@ -19,4 +19,5 @@
 ## 案例
 
 - [representative.md](representative.md)：公司代表——一线代表职务的权责闭环设计；
-- [secretary.md](secretary.md)：秘书制度——三层秘书架构与管理者孵化通道。
+- [secretary.md](secretary.md)：秘书制度——三层秘书架构与管理者孵化通道；
+- [rank.md](rank.md)：职级制度——五序列职级体系与晋升通道。
