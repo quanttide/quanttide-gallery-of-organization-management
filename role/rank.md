@@ -78,4 +78,4 @@ M 序列面向对接全局的核心管理者，五级各自对应组织中的具
 
 ---
 
-*相关阅读：[议事部门案例](../department/deliberative-department.md)（治理视角）· [公司代表案例](representative.md)（代表职务视角）· [角色案例集入口](index.md)*
+*相关阅读：[公司代表案例](representative.md)（代表职务视角）· [角色案例集入口](index.md)*
