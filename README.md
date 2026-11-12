@@ -10,7 +10,7 @@
 - [role/representative.md](role/representative.md)：公司代表——一线代表职务的权责闭环。
 - [role/secretary.md](role/secretary.md)：秘书制度——三层秘书架构与管理者孵化通道。
 - [role/rank.md](role/rank.md)：职级制度——五序列职级体系与晋升通道。
-- [department/index.md](department/index.md)：部门案例集入口（秘书处、顾问团与三权分立建模）。
+- [department/index.md](department/index.md)：部门案例集入口（代表大会 / 秘书处 / 顾问团，按立法、行政、司法排序）。
 - [department/deliberative.md](department/deliberative.md)：议事机构汇报关系——各级代表大会的汇报路线与汇报内容。
 
 ## 许可
